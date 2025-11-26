@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../PlatformIO"
+		},
+		{
+			"name": "Cat Jiggler S3",
+			"path": "../../../PlatformIO/Projects/Cat Jiggler S3"
+		},
+		{
+			"name": "Gatinho Mouse",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
