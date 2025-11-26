@@ -1,4 +1,4 @@
-# 🐱 Bongo Cat Stealth Mouse Jiggler (ESP32)
+# 🐱 Bongo Cat Stealth Mouse Jiggler (ESP32 - Lilygo T-Display S3 OLED)
 
 A programmable, undetectable mouse jiggler that disguises itself as a cute desktop accessory. It displays an animated **Bongo Cat** GIF while subtly moving the mouse cursor to prevent computer sleep or "Away" status.
 
