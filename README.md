@@ -1,10 +1,10 @@
-# 🐱 Bongo Cat Stealth Mouse Jiggler (ESP32 - Lilygo T-Display S3 OLED)
+# 🐱 Purrpetual-Motion: A Bongo Cat Stealth Mouse Jiggler (ESP32 - Lilygo T-Display S3 OLED)
 
 A programmable, undetectable mouse jiggler that disguises itself as a cute desktop accessory. It displays an animated **Bongo Cat** GIF while subtly moving the mouse cursor to prevent computer sleep or "Away" status.
 
 https://github.com/user-attachments/assets/7c522a04-07ee-471d-a78a-19684dbbbe64
 
-(The bluetooth icon changes his color when the bluetooth is connected with the device)
+(The Bluetooth icon changes its color when connected to a device)
 
 Unlike standard jigglers, this project uses a **human-like (maybe a Cat-like?) movement algorithm** and spoofs the Bluetooth ID of a legitimate Logitech mouse.
 
@@ -21,7 +21,7 @@ Unlike standard jigglers, this project uses a **human-like (maybe a Cat-like?) m
 
 * **LilyGO T-Display S3** (ESP32-S3 with built-in ST7789 display).
 * USB-C Cable.
-* (Optional) 3D Printed case for a desktop finish. (You can find one in to printables.com website, one like: https://www.printables.com/model/1476247-lilygo-t-display-s3-amoled-case) 
+* (Optional) 3D Printed case for a desktop finish. (You can find models on Printables, such as: https://www.printables.com/model/1476247-lilygo-t-display-s3-amoled-case)
 
 ## 📦 Dependencies
 
