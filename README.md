@@ -2,6 +2,10 @@
 
 A programmable, undetectable mouse jiggler that disguises itself as a cute desktop accessory. It displays an animated **Bongo Cat** GIF while subtly moving the mouse cursor to prevent computer sleep or "Away" status.
 
+https://github.com/user-attachments/assets/7c522a04-07ee-471d-a78a-19684dbbbe64
+
+(The bluetooth icon changes his color when the bluetooth is connected with the devide)
+
 Unlike standard jigglers, this project uses a **human-like (mybe a Cat-like?) movement algorithm** and spoofs the Bluetooth ID of a legitimate Logitech mouse.
 
 ## ✨ Key Features
@@ -31,10 +35,6 @@ This project is built using the Arduino framework. You will need the following l
 
 You can tweak the behavior at the top of the `main.cpp` file:
 
-
-https://github.com/user-attachments/assets/7c522a04-07ee-471d-a78a-19684dbbbe64
-
-(The bluetooth icon changes his color when the bluetooth is connected with the devide)
 
 ### Movement Settings
 ```cpp
