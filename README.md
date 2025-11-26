@@ -4,7 +4,7 @@ A programmable, undetectable mouse jiggler that disguises itself as a cute deskt
 
 https://github.com/user-attachments/assets/7c522a04-07ee-471d-a78a-19684dbbbe64
 
-(The bluetooth icon changes his color when the bluetooth is connected with the devide)
+(The bluetooth icon changes his color when the bluetooth is connected with the device)
 
 Unlike standard jigglers, this project uses a **human-like (mybe a Cat-like?) movement algorithm** and spoofs the Bluetooth ID of a legitimate Logitech mouse.
 
