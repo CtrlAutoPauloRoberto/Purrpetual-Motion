@@ -31,6 +31,11 @@ This project is built using the Arduino framework. You will need the following l
 
 You can tweak the behavior at the top of the `main.cpp` file:
 
+
+https://github.com/user-attachments/assets/7c522a04-07ee-471d-a78a-19684dbbbe64
+
+(The bluetooth icon changes his color when the bluetooth is connected with the devide)
+
 ### Movement Settings
 ```cpp
 #define MAX_MOVE_RANGE 15       // Radius of movement (pixels)
